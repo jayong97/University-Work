@@ -1,0 +1,9 @@
+The main objective of this assignment was to practice object oriented design and programming. 
+The principles that I applied in the assignment include inheritance, abstract classes, method overriding, and polymorphism.
+The task of the assignment was to design a program that could keep track of all products (as well as stock), customers, and their orders for a particular 'business'.
+The program read customer and order information from text files and created the relevant objects to store the information. The quantity of products ordered by customers
+would then be reflected in the change in stock (only if there was enough stock available). The program would also keep track of the total value of orders made by each customer 
+and was able to determine the 'most valuable' customer. Other features of the program include applying discounts for certain customers based on their order values as well as 
+modifying the discounted amount.
+
+The final grade obtained for this assginment was 29/30 marks.
